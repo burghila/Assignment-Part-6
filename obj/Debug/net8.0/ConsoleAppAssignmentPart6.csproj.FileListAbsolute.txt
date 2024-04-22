@@ -1,0 +1,14 @@
+C:\Users\burgh\Desktop\ConsoleAppAssignmentPart6\ConsoleAppAssignmentPart6\bin\Debug\net8.0\ConsoleAppAssignmentPart6.exe
+C:\Users\burgh\Desktop\ConsoleAppAssignmentPart6\ConsoleAppAssignmentPart6\bin\Debug\net8.0\ConsoleAppAssignmentPart6.deps.json
+C:\Users\burgh\Desktop\ConsoleAppAssignmentPart6\ConsoleAppAssignmentPart6\bin\Debug\net8.0\ConsoleAppAssignmentPart6.runtimeconfig.json
+C:\Users\burgh\Desktop\ConsoleAppAssignmentPart6\ConsoleAppAssignmentPart6\bin\Debug\net8.0\ConsoleAppAssignmentPart6.dll
+C:\Users\burgh\Desktop\ConsoleAppAssignmentPart6\ConsoleAppAssignmentPart6\bin\Debug\net8.0\ConsoleAppAssignmentPart6.pdb
+C:\Users\burgh\Desktop\ConsoleAppAssignmentPart6\ConsoleAppAssignmentPart6\obj\Debug\net8.0\ConsoleAppAssignmentPart6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burgh\Desktop\ConsoleAppAssignmentPart6\ConsoleAppAssignmentPart6\obj\Debug\net8.0\ConsoleAppAssignmentPart6.AssemblyInfoInputs.cache
+C:\Users\burgh\Desktop\ConsoleAppAssignmentPart6\ConsoleAppAssignmentPart6\obj\Debug\net8.0\ConsoleAppAssignmentPart6.AssemblyInfo.cs
+C:\Users\burgh\Desktop\ConsoleAppAssignmentPart6\ConsoleAppAssignmentPart6\obj\Debug\net8.0\ConsoleAppAssignmentPart6.csproj.CoreCompileInputs.cache
+C:\Users\burgh\Desktop\ConsoleAppAssignmentPart6\ConsoleAppAssignmentPart6\obj\Debug\net8.0\ConsoleAppAssignmentPart6.dll
+C:\Users\burgh\Desktop\ConsoleAppAssignmentPart6\ConsoleAppAssignmentPart6\obj\Debug\net8.0\refint\ConsoleAppAssignmentPart6.dll
+C:\Users\burgh\Desktop\ConsoleAppAssignmentPart6\ConsoleAppAssignmentPart6\obj\Debug\net8.0\ConsoleAppAssignmentPart6.pdb
+C:\Users\burgh\Desktop\ConsoleAppAssignmentPart6\ConsoleAppAssignmentPart6\obj\Debug\net8.0\ConsoleAppAssignmentPart6.genruntimeconfig.cache
+C:\Users\burgh\Desktop\ConsoleAppAssignmentPart6\ConsoleAppAssignmentPart6\obj\Debug\net8.0\ref\ConsoleAppAssignmentPart6.dll
